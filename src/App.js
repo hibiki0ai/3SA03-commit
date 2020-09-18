@@ -5,10 +5,13 @@ import WordCard from './WordCard';
 function App() {
  return (
   <div>
-      <p>
-        Word card game
-      </p>
+      <header className="App-header">
+        <p>
+          Word card game
+        </p>
         <p>ผสมตัวอักษรทั้งหมดให้เป็นคำ</p>
+        <p>|---|</p><p>|---|</p><p>\_|---|_/</p><p>\---/</p><p>\-/</p><p>\/</p>
+      </header>
   <WordCard value="hello"/>
   </div>
  );
