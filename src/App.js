@@ -9,8 +9,8 @@ function App() {
         <p>
           Word card game
         </p>
-        <p>ผสมตัวอักษรทั้งหมดให้เป็นคำ</p>
-        <p>คำใบ้ "คาร์บอนบริสุทธิที่มีความแข็งที่สุด"</p><p>|---|</p>
+        <p>Mix all letters into words</p>
+        <p>A hint of "Hardest Pure Carbon" ?</p><p>|---|</p>
         <p>\__|---|__/</p><p>\-----/</p><p>\---/</p><p>\/</p>
       </header>
   <WordCard value="Diamond"/>
